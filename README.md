@@ -87,3 +87,9 @@ However, you may run a small script to make sure everything works fine with all 
 bash myFirstTest.sh
 ```
 
+
+### Literature
+This repository is created in order to numerically verify the theoretical results introduced in (Weighted block compressed sensing for parametrized function approximation)[Papers/FullSolution.pdf]. 
+Some related and relevant literature can be found in (Multi-level compressed sensing Petrov-Galerkin)[https://github.com/jlbouchot/CSPDEs]. 
+
+Should you have more questions, you may direct them to me: jlbmathit@gmail.com .
