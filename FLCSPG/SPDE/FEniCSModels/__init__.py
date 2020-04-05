@@ -10,11 +10,11 @@ __lastmodified__ = "2020/04/02"
 
 __all__ = [
     'DiffusionFEMModelML',
-
     'ConstantCoefficient',
     'LinearCoefficient',
     'TrigCoefficient', 
     'WeightedCosine2D',
+    'Average',
 ]
 
 # ML Models
@@ -25,4 +25,7 @@ from .ConstantCoefficient import *
 from .LinearCoefficient import *
 from .TrigCoefficient import *
 from .WeightedCosine2D import *
+
+# This is just because it is adapted from the MLCSPG framework
+from .Average import *
 
